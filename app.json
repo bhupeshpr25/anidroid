@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "playpal",
-    "slug": "playpal"
+    "name": "anidroid",
+    "slug": "anidroid"
   }
 }
